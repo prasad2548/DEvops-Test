@@ -1,0 +1,16 @@
+1st
+copy the repo url
+2nd
+in my workspace do git init to initilize git
+3rd
+git clone url
+4th
+cd enter to the repo
+5th 
+do the needfull changes
+6th
+git add filename / git add .(changes will move to staging area) after doing git add use "git status" to check whether the file is in staging area or in locqal repo
+7th
+git commit -m "commit msg"   (provide commit msg to understand why i make changes)
+8th
+git push (It will push the changes to remote repo)
