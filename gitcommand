@@ -14,3 +14,5 @@ git add filename / git add .(changes will move to staging area) after doing git 
 git commit -m "commit msg"   (provide commit msg to understand why i make changes)
 8th
 git push (It will push the changes to remote repo)
+
+(bibhu)
