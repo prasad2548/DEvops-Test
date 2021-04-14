@@ -1,16 +1,16 @@
-1st
-copy the repo url
-2nd
-in my workspace do git init to initilize git
-3rd
-git clone url
-4th
-cd enter to the repo
-5th 
-do the needfull changes
-6th
-git add filename / git add .(changes will move to staging area) after doing git add use "git status" to check whether the file is in staging area or in locqal repo
-7th
-git commit -m "commit msg"   (provide commit msg to understand why i make changes)
-8th
-git push (It will push the changes to remote repo)
+Dear (Recipient’s Name)
+
+I am (Name) working as a (Job Title) in (Department Name). 
+
+I am nearing the end of my pregnancy and hence seeking maternity leave as suggested by my doctor. I request you to kindly approve my maternity leave for the duration of (start date) to (end-date) as per company policy. My due date is (date). 
+
+As I will be away for a continued long period, I have assigned my duties and responsibilities to (colleague name). In case of any difficulty, you can reach out to me at my number (Contact no).
+
+I have attached my medical certificate along with pregnancy proof submission and other relevant documents. Apart from this, I would also like to understand the insurance coverage for cashless billing process. Please let me know the concerned person for the same.
+
+Thank you for your consideration.
+
+Yours Sincerely
+
+(bibhu)
+
